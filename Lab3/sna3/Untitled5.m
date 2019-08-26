@@ -1,0 +1,3 @@
+newman_max_sf
+spectral_max_sf
+modulemax_val_sf
